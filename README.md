@@ -1,12 +1,12 @@
-![Header](https://github.com/boyarkinev/boyarkinev/blob/main/assets/images/a'm%20trying.gif)
+![Header](https://github.com/boyarkinev/boyarkinev/blob/main/assets/images/a'm%20trying.gif){:width="600px"}
 
 ## Frontend Developer
 
+- 🔭  В поисках работы
 - 👨🏼‍💻 Постигаю React и Redux
 - 📫  TypeScript, Node.JS, React Native затаились в очереди
 - 😎  Люблю верстку, но без фанатизма
 - 🌱  Немного дизайнер в эстетике и Agile'ист в подходе
-- 🔭  В поисках работы
 
 ### Технологии
 
