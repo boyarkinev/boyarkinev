@@ -1,4 +1,4 @@
-![Header](https://github.com/boyarkinev/boyarkinev/blob/main/assets/images/a'm%20trying.gif =700x)
+![Header](https://github.com/boyarkinev/boyarkinev/blob/main/assets/images/a'm%20trying.gif)
 
 ## Frontend Developer
 
