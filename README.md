@@ -13,6 +13,8 @@
 ![ReactJS](https://img.shields.io/badge/-React_JS-485662?style=for-the-badge&logo=react)
 ![ReactJS](https://img.shields.io/badge/-Java_Script-e2a53c?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-WebPack-125c7c?style=for-the-badge&logo=webpack)
+![ReactJS](https://img.shields.io/badge/-HTML5-fa9114?style=for-the-badge&logo=html5)
+![ReactJS](https://img.shields.io/badge/-CSS3-3c9bd2?style=for-the-badge&logo=css3)
 
 ### Социальные сети
 
