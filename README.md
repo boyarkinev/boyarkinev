@@ -3,19 +3,24 @@
 ## Frontend Developer
 
 - 🔭  В поисках работы
-- 👨🏼‍💻 Постигаю React и Redux
-- 📫  TypeScript, Node.JS, React Native затаились в очереди
+- 👨🏼‍💻 Пишу на React, применяю Redux
+- 📫  TypeScript, Node.JS, Flatter затаились в очереди
 - 😎  Люблю верстку, но без фанатизма
 - 🌱  Немного дизайнер в эстетике и Agile'ист в подходе
 
 ### Технологии
 
 ![ReactJS](https://img.shields.io/badge/-React_JS-485662?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-Java_Script-e2a53c?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-WebPack-125c7c?style=for-the-badge&logo=webpack)
 ![ReactJS](https://img.shields.io/badge/-HTML5-fa9114?style=for-the-badge&logo=html5)
 ![ReactJS](https://img.shields.io/badge/-CSS3-3c9bd2?style=for-the-badge&logo=css3)
 
+### Наследие прошлого опыта
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ### Социальные сети
 
 [![ReactJS](https://img.shields.io/badge/-twitter-36abe0?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/boyarkinev)
