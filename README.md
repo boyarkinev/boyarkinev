@@ -4,14 +4,15 @@
 
 - 🔭  В поисках работы
 - 👨🏼‍💻 Пишу на React, применяю Redux
-- 📫  TypeScript, Node.JS, Flutter затаились в очереди
-- 😎  Люблю верстку, но без фанатизма
+- 📫  Node.JS, Flutter затаились в очереди
+- 😎  Люблю верстку, но без фанатизма; придерживаюсь БЭМ
 - 🌱  Немного дизайнер в эстетике и Agile'ист в подходе
 
 ### Технологии
 
 ![ReactJS](https://img.shields.io/badge/-React_JS-485662?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-Java_Script-e2a53c?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-WebPack-125c7c?style=for-the-badge&logo=webpack)
 ![ReactJS](https://img.shields.io/badge/-HTML5-fa9114?style=for-the-badge&logo=html5)
